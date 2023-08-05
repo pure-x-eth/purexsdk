@@ -1,0 +1,26 @@
+{
+  "name": "purexsdk",
+  "version": "1.0.0",
+  "description": "SDK for Pure-X decentralized exchange",
+  "main": "purexsdk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pure-x-eth/purexsdk.git"
+  },
+  "keywords": [
+    "pure-x",
+    "dex"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pure-x-eth/purexsdk/issues"
+  },
+  "homepage": "https://github.com/pure-x-eth/purexsdk#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
