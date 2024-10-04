@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "bignumber.js": "^9.1.1",
-    "purexsdk": "file:.."
+    "purexsdk": "^1.0.0"
   }
 }
